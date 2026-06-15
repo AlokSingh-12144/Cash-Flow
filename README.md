@@ -5,10 +5,10 @@ Cash-Flow is a salary and expense tracker module.
 [View Live Site](https://cash-flow-eight-theta.vercel.app/)
 
 ## Screenshot
-![screenshot](./assets/screenshot(1).png)
-![screenshot](./assets/screenshot(2).png)
-![screenshot](./assets/screenshot(3).png)
-![screenshot](./assets/screenshot(4).png)
+![screenshot](./assets/Screenshot(1).PNG)
+![screenshot](./assets/Screenshot(2).PNG)
+![screenshot](./assets/Screenshot(3).PNG)
+![screenshot](./assets/Screenshot(4).PNG)
 
 ## Tech Stack
 HTML5, CSS3 (Grid), Vanilla JavaScript
